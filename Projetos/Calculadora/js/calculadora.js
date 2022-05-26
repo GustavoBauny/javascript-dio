@@ -84,8 +84,8 @@ function calculadora(){
             potenciacao();
             break;
     }
+    }
 
 }
 
 calculadora();
-}
