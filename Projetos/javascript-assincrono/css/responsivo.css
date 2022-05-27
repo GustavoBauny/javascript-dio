@@ -1,0 +1,31 @@
+/* Telefones em paisagem e abaixo */
+@media (max-width: 480px) {
+    body{
+        justify-content: center;
+        text-align: center;
+    }
+    
+    img {
+    max-width: 280px;
+   }
+   .footer {
+    padding-bottom: 80px;
+    
+}
+}
+/* Telefones em paisagem a tablet em retrato */
+@media (max-width: 767px) {
+    body{
+        justify-content: center;
+        text-align: center;
+    }
+}
+
+
+/* Tablet em retrato a paisagem e desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+    body{
+        justify-content: center;
+        text-align: center;
+    }
+}
