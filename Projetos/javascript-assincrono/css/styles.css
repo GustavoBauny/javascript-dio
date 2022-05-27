@@ -38,3 +38,27 @@ button {
 button:hover {
 	background: orange;
 }
+
+.footer {
+	margin-top: auto;
+	margin-bottom: 10px;
+	color: gray;
+	text-align: center;
+	font-size: 10px;
+	line-height: 5px;
+	bottom: 0;
+	text-align: center;
+	width: auto;
+	position: initial;
+	font-weight: 900;
+	display: block;
+
+
+}
+
+.link-footer {
+
+text-decoration: none;
+color: gray;
+
+}
